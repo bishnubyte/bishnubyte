@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bishnubyte
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on website project
+- 👀 I’m interested in Data visualization
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate in EDA project
 - 📫 How to reach me ...
       you can mail me at- bishnuprasadbaruah321@gmail.com
 
